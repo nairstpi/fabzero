@@ -24,6 +24,7 @@ Mentor Sh. Sibu introduced and explained all the equipments in our Fablab. The g
 
 **Shopbot Mini** - 3 Axis milling machine, ideal for making small jobs.      
 **Vinyl Cutter** - Can be used as plotter too. Though it is a 2 axis machine, it can even work as more than 2 axis machine, perhaps up to 2.5.
+![Vinyl Cutter in Fablab](https://github.com/nairstpi/fabzero/blob/master/img/vinylplotter.jpeg "Roland Vinyl Plotter)
 **Laser Cutter** - CO2 type, 3 axis machine with the wavelength of 10.2 micrometer. Absorbing type materials can be used in this machine. It is a 3 stage filtration system.   
 **3D Printer** - Additive type, Fused _Filament_ Deposition. Same material for sacrificing material.    
 **3D Printer** - Liquid resin gets solidified by exposure to UV rays. Stereo Lithography. Same sacrificing material.       
@@ -32,3 +33,4 @@ Mentor Sh. Sibu introduced and explained all the equipments in our Fablab. The g
 We could also notice electronics lab equipments like Oscilloscope, Function Generator, Power Supply,
 
 ###  
+
