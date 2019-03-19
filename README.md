@@ -44,7 +44,7 @@ Academany- The Academy of Almost Anything offers high level education across glo
 
 Academany programs are distributed learning system with mentors rather teachers, inline with the nine principles of Joi Ito (MIT Media Lab).     
 
-![Principles](/img/MIT principles.jpeg "MIT Principles:)     
+![Principles](/img/MIT principles.jpeg "MIT Principles")     
 
 Mentors called for the day, reiterating to complete the unfinished task as homework...
 
