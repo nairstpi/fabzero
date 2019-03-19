@@ -49,3 +49,10 @@ Academany programs are distributed learning system with mentors rather teachers,
 Mentors called it for the day, reiterating to complete the unfinished task as homework...
 
 End of Day 1 @ 18:15 hrs...
+
+
+## Day 2 : 19 March 2019, Tuesday, 10:00 to 18:15 hrs IST.   
+
+### Morning Session
+Sh. Francisco Sanchez started verifying the text document made by each individual, as a teacher in school.   
+Made necessary changes in the README.md by copying the text file content to the portal README.md file, followed with a key stroke in the commit button, with a proper and meaningful commit message commensurating with the activity being performed each time.   
