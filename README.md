@@ -15,9 +15,9 @@ He explained about how to take note of the important things, arising out of the 
 Mentor Sh. Sibu introduced and explained all the equipments in our Fablab. The gathered details are stated below. 
 
 **Shopbot Alpha** - 3 Axis milling machine, 96"/48", subtractive model with resolution of 1/10th mm. Ideal                     for wooden materials and other soft metals like Aluminium, Brass, etc.
-**Band Saw** - 3966
-**Scroll Saw**
-**High Pressure Cleaning Unit**
+**Band Saw** - 3966         
+**Scroll Saw**     
+**High Pressure Cleaning Unit**      
 
 **Shopbot Mini** - 3 Axis milling machine, ideal for making small jobs.
 **Vinyl Cutter** - Can be used as plotter too.
