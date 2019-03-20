@@ -7,9 +7,9 @@ It is our luck to have a cool mentor like Sh. Francisco Sanchez, who is quite kn
 ![Francisco Sanchez](img/francisco.jpeg "Francisco Sanchez")
 
 #### Sh. Sibu Saman
-An ex-fablab kerala employee is Sh. Sibu Saman and now working with Fablab foundation is the other mentor for our training program. 
+An ex-fablab Kerala employee is Sh. Sibu Saman and now working with Fablab foundation is the other mentor for our training program. I am happy that I can speak to him in malayalam, the language common to both of us.
 
-![Sibu Saman](img/sibu.jpg "Sibu Saman")
+![Sibu Saman]( "Sibu Saman")
 
 
 
