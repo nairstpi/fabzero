@@ -12,6 +12,8 @@ An ex-fablab Kerala employee is Sh. Sibu Saman and now working with Fablab found
 ![Sibu Saman]( "Sibu Saman")
 
 
+## [Vinyl Cutter](vinylplotter.md)
+
 
 ## [Day 1](day1.md)
 
