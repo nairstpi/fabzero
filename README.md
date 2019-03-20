@@ -1,5 +1,10 @@
 # Incidents & Experiences of Mahesh M. in the Fabzero program at STPI, Bhubaneswar, India.
-### Mentors : Sh. Francisco & Sh. Sibu
+
+### Mentors
+#### Sh. Francisco Sanchez
+It is our luck to have a cool mentor like Sh. Francisco Sanchez, who is quite knowledgeable and at the same time, listens to everyone in sorting out their issues. 
+
+![Francisco Sanchez](/img/franscisco.jpeg "Francisco Sanchez")
 
 ## [Day 1](day1.md)
 
