@@ -9,7 +9,7 @@ A civil engineer aka structural expert by education and a passionate in fablab a
 #### Sh. Sibu Saman
 A post graduate in Physics from CEBS, UM & DAE and an ex-employee of Fablab Kerala. Having profound skills in Linux, Arduino, R-Pi, Hardware, Programming, etc and familiar with all the equipments in the Fablabs. Personally I am happy that I can speak to him in malayalam,the mother language, common to both of us.
 
-![Sibu Saman](img/sibu.jpeg "Sibu Saman")
+![Sibu Saman](img/sibu.jpg "Sibu Saman")
 
 
 ## [Vinyl Cutter](vinylplotter.md)
