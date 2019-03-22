@@ -17,7 +17,7 @@ A post graduate in Physics from CEBS, UM & DAE and an ex-employee of Fablab Kera
 ## About Me
 
 I am Mahesh Madhusudhanan Nair (Mahesh M.), a college drop out from the Masters of Engineering (Applied Electronics) from [CEG- Anna University](https://ceg.annauniv.edu/), Chennai India and an alumni of [Thiagarajar College of Engineering, Madurai](https://www.tce.edu/) and [Government Polytechnic, Nagercoil](http://www.gptnagercoil.com/).  
-[_More details_](aboutme.md)
+[_**...more details**_](aboutme.md)
 
 
 ## [Vinyl Cutter](vinylplotter.md)
