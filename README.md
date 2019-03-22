@@ -1,4 +1,7 @@
-# Incidents & Experiences of Mahesh M. in the Fabzero program at STPI, Bhubaneswar, India.
+# Documentation of my experiences @ Fabzero, Bhubaneswar held at ELITE facility of STPI. 
+
+Happy to be part of the STPI team nominated for the Fabzero training for a duration of 3 weeks. The training is scheduled from 18th March to 5th April 2019. 
+
 
 ### Mentors
 #### Sh. Francisco Sanchez
