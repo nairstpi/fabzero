@@ -6,6 +6,12 @@
 
 Some of the photographs taken while the inaugural ceremony are depicted below.
 
+Image 1
+Image 2
+Image 3
+Image 4
+
+
 
 
 Post a short break, the actual session kick started. Sh. Francisco explained about the insights of this training and taken us through the various initial iterations of the training program in the past. Happy to know that the first two iterations were held in Kerala, India, followed by the third one in Jordan in the years 2016, 2017 and 2018 respectively. 
