@@ -6,19 +6,19 @@ Profound thanks to the Almighty for the opportunity and the coincidental choice 
 ## `Inauguration of Fab Zero`
 
 **Sh. Manas Panda**, Director, STPI, Bhubaneswar welcomed Director General, other colleagues from Delhi (VC), the instructors/mentors and the participants to the august occasion. He had taken us through the journey in setting-up of the Fablab in STPI-Bhubaneswar. The training program (Fab Zero) was launched by **Dr. Omkar Rai**, Director General, STPI, followed with his inaugural address emphasizing the need and importance of Fablab across STPI, 
-[_**...more details**_](inaugural.md)
+[_**...more details**_](mdfiles/inaugural.md)
 
 ## `Mentors of Fab Zero`
 The fourth iteration of the Pre Academy was rebranded as Fab Zero and it is anchored by two two mentors, whose details are provided in the below links.
 
-### [**1.** Sh. Francisco Sanchez](francisco.md)
-### [**2.** Sh. Sibu Saman](sibu.md)
+### [**1.** Sh. Francisco Sanchez](mdfiles/francisco.md)
+### [**2.** Sh. Sibu Saman](mdfiles/sibu.md)
 
 ## `About Me`
 
-I am Mahesh Madhusudhanan Nair ([Mahesh M.](certificatename.md "Certificate Name")), a college drop out from the Masters of Engineering (Applied Electronics) from [CEG- Anna University](https://ceg.annauniv.edu/), Chennai India and an alumni of [Thiagarajar College of Engineering, Madurai](https://www.tce.edu/) and [Government Polytechnic, Nagercoil](http://www.gptnagercoil.com/).  
+I am Mahesh Madhusudhanan Nair ([Mahesh M.](mdfiles/certificatename.md "Certificate Name")), a college drop out from the Masters of Engineering (Applied Electronics) from [CEG- Anna University](https://ceg.annauniv.edu/), Chennai India and an alumni of [Thiagarajar College of Engineering, Madurai](https://www.tce.edu/) and [Government Polytechnic, Nagercoil](http://www.gptnagercoil.com/).  
 
-[_Read more..._](aboutme.md)
+[_Read more..._](mdfiles/aboutme.md)
 
 ## `Fablab tour`
 
@@ -26,7 +26,7 @@ For the initial few days, the session will be conducted in the 4th floor of the 
 
 ![Fablab Collage](img/fablabtour1.jpg "Fablab in various angles") 
 
-The list of the machines/devices found in the lab is listed [_here_.](fablabtour.md "Tour details")
+The list of the machines/devices found in the lab is listed [_here_.](mdfiles/fablabtour.md "Tour details")
 
 Mentor Sh. Sibu introduced and explained all the equipments in our Fablab. The gathered details are stated below. 
 
