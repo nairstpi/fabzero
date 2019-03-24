@@ -9,14 +9,14 @@ Profound thanks to the Almighty for the opportunity and the coincidental choice 
 [_**...more details**_](inaugural.md)
 
 ## `Mentors of Fab Zero`
-The fourth iteration of the Pre Academy was rebranded as Fab Zero and it is anchored by two two mentors named **Sh. Francisco Sanchez** & **Sh. Sibu Saman**.
+The fourth iteration of the Pre Academy was rebranded as Fab Zero and it is anchored by two two mentors, whose details are provided in the below links.
 
 ### [**1.** Sh. Francisco Sanchez](francisco.md)
 ### [**2.** Sh. Sibu Saman](sibu.md)
 
 ## `About Me`
 
-I am Mahesh Madhusudhanan Nair (Mahesh M.), a college drop out from the Masters of Engineering (Applied Electronics) from [CEG- Anna University](https://ceg.annauniv.edu/), Chennai India and an alumni of [Thiagarajar College of Engineering, Madurai](https://www.tce.edu/) and [Government Polytechnic, Nagercoil](http://www.gptnagercoil.com/).  
+I am Mahesh Madhusudhanan Nair ([Mahesh M.](certificatename.md "Certificate Name")), a college drop out from the Masters of Engineering (Applied Electronics) from [CEG- Anna University](https://ceg.annauniv.edu/), Chennai India and an alumni of [Thiagarajar College of Engineering, Madurai](https://www.tce.edu/) and [Government Polytechnic, Nagercoil](http://www.gptnagercoil.com/).  
 [_**...more details**_](aboutme.md)
 
 ## [Vinyl Cutter](vinylplotter.md)
