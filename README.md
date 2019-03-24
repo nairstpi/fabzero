@@ -16,7 +16,7 @@ The fourth iteration of the Pre Academy was rebranded as Fab Zero and it is anch
 
 ## `About Me`
 
-I am Mahesh Madhusudhanan Nair ([Mahesh M.](mdfiles/certificatename.md "Certificate Name")), a college drop out from the Masters of Engineering (Applied Electronics) from [CEG- Anna University](https://ceg.annauniv.edu/), Chennai India and an alumni of [Thiagarajar College of Engineering, Madurai](https://www.tce.edu/) and [Government Polytechnic, Nagercoil](http://www.gptnagercoil.com/).  
+I am Mahesh Madhusudhanan Nair ( [Mahesh M.](mdfiles/certificatename.md "Certificate Name") ), a college drop out from the Masters of Engineering (Applied Electronics) from [CEG- Anna University](https://ceg.annauniv.edu/), Chennai India and an alumni of [Thiagarajar College of Engineering, Madurai](https://www.tce.edu/) and [Government Polytechnic, Nagercoil](http://www.gptnagercoil.com/).  
 
 [_Read more..._](mdfiles/aboutme.md)
 
@@ -26,9 +26,10 @@ For the initial few days, the session will be conducted in the 4th floor of the 
 
 ![Fablab Collage](img/fablabtour1.jpg "Fablab in various angles") 
 
-The list of the machines/devices found in the lab is listed [_here_.](mdfiles/fablabtour.md "Tour details")
+The list of the machines/devices found in the lab is listed [_here_.](mdfiles/fablabtour.md "Tour details").   
 
-Mentor Sh. Sibu introduced and explained all the equipments in our Fablab. The gathered details are stated below. 
+[_Click here_](mdfiles/fablabtour.md "Full details of tour") to read more about the fablab tour
+ 
 
 **Shopbot Alpha** - 3 Axis milling machine, 96"/48", subtractive model with resolution of 1/10th mm. Ideal for wooden materials and other soft metals like Aluminium, Brass, etc.         
 **Band Saw** - 3966         
