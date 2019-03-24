@@ -19,6 +19,10 @@ A post graduate in Physics from CEBS, UM & DAE and an ex-employee of Fablab Kera
 I am Mahesh Madhusudhanan Nair (Mahesh M.), a college drop out from the Masters of Engineering (Applied Electronics) from [CEG- Anna University](https://ceg.annauniv.edu/), Chennai India and an alumni of [Thiagarajar College of Engineering, Madurai](https://www.tce.edu/) and [Government Polytechnic, Nagercoil](http://www.gptnagercoil.com/).  
 [_**...more details**_](aboutme.md)
 
+### Inauguration of Fabzero
+
+**Sh. Manas Panda**, Director, STPI, Bhubaneswar welcomed Director General, other colleagues from Delhi (VC), the instructors/mentors and the participants to the august occasion. He had taken us through the journey in setting-up of the Fablab in STPI-Bhubaneswar. The training program (Fabzero) was launched by **Dr. Omkar Rai**, Director General, STPI, followed with his inaugural address emphasizing the need and importance of Fablab across STPI, also urged each Directorates to set-up at least one such lab after ensuring the financial assistance from respective State Governments. 
+[_**...more details**_](inaugural.md)
 
 ## [Vinyl Cutter](vinylplotter.md)
 
