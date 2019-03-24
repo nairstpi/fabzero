@@ -24,7 +24,7 @@ I am Mahesh Madhusudhanan Nair ([Mahesh M.](certificatename.md "Certificate Name
 
 For the initial few days, the session will be conducted in the 4th floor of the facility keeping in view of the space constraints in the lab at first floor. Therefore, a tour was arranged to see the lab to get acquainted with all the equipment there. The collage made out of the snaps taken during the tour can be seen here.
 
-![Fablab Collage](img/fablabtour.jpg "Fablab in various angles") 
+![Fablab Collage](img/fablabtour1.jpg "Fablab in various angles") 
 
 The list of the machines/devices found in the lab is listed [_here_.](fablabtour.md "Tour details")
 
