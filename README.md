@@ -17,13 +17,14 @@ The fourth iteration of the Pre Academy was rebranded as Fab Zero and it is anch
 ## `About Me`
 
 I am Mahesh Madhusudhanan Nair ([Mahesh M.](certificatename.md "Certificate Name")), a college drop out from the Masters of Engineering (Applied Electronics) from [CEG- Anna University](https://ceg.annauniv.edu/), Chennai India and an alumni of [Thiagarajar College of Engineering, Madurai](https://www.tce.edu/) and [Government Polytechnic, Nagercoil](http://www.gptnagercoil.com/).  
-[_**...more details**_](aboutme.md)
+
+[_Read more..._](aboutme.md)
 
 ## [Vinyl Cutter](vinylplotter.md)
 
 
-## [Day 1](day1.md)
+## [Notings 1](day.md)
 
-## [Day 2](day2.md)
+## [Notings 2](day.md)
 
-## [Day 3](day3.md)
+## [Notings 3](day.md)
