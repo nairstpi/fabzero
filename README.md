@@ -1,6 +1,7 @@
-# Documentation of my experiences @ Fabzero, Bhubaneswar held at ELITE facility of STPI. 
+# Documentation of my day-by-day experience in Fabzero, held at the ELITE facility of STPI, Bhubaneswar, India.
 
-Happy to be part of the STPI team, nominated for the Fabzero training for a duration of 3 weeks. The training is scheduled from 18th March to 5th April 2019. 
+## 
+Profound thanks to Almighty for the opportunity and the incidental choice of the management to nominate me for the training, I am happy to be part of the STPI team, selected for the Fabzero training for a duration of 3 weeks scheduled from 18th March to 5th April 2019. 
 
 
 ## Mentors
