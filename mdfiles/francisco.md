@@ -3,4 +3,4 @@ A civil engineer aka structural expert by education and a passionate in fablab a
 
 ![Francisco Sanchez](img/francisco.jpeg "Francisco Sanchez")
 
-[_Click here_](https://github.com "Details of Francisco Sanchez") to know more about `Francisco Sanchez`.
+[_Click here_](https://github.com/thebeachlab "Details of Francisco Sanchez") to know more about `Francisco Sanchez`.
