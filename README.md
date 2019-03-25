@@ -64,7 +64,7 @@ Mentors called it for the day, reiterating to complete the unfinished task as ho
 
 End of Day 1 @ 18:15 hrs...
 
-## [Vinyl Cutter](vinylplotter.md)
+## [Vinyl Cutter](/mdfiles/vinylplotter.md)
 
 
 ## [Notings 1](day.md)
