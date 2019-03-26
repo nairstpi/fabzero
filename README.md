@@ -22,14 +22,32 @@ I am Mahesh Madhusudhanan Nair ( [Mahesh M.](mdfiles/certificatename.md "Certifi
 
 ## `Fablab tour`
 
-For the initial few days, the session will be conducted in the 4th floor of the facility keeping in view of the space constraints in the lab at first floor. Therefore, a tour was arranged to see the lab to get acquainted with all the equipment there. The collage made out of the snaps taken during the tour can be seen here.
+For the initial few days, the session will be conducted in the 4th floor of the facility keeping in view of the space constraints in the lab at first floor. Therefore, a tour was arranged to see the lab to get acquainted with all the equipment there. The lab pictures are here.
 
 ![Fablab Collage](img/fablabtour1.jpg "Fablab in various angles") 
 
-The list of the machines/devices found in the lab is listed [_here_.](mdfiles/fablabtour.md "Tour details").   
+To see the entire tour details, [_click here_.](mdfiles/fablabtour.md "Tour details").   
 
-[_Click here_](mdfiles/fablabtour.md "Full details of tour") to read more about the fablab tour
  
+## `Index` 
+
+- **[Vinyl Cutting](/mdfiles/vinylplotter.md)**  
+- **[Electronics Design](/mdfiles/elecdesign.md)** 
+
+- **[Shopbot Alpha]()**         
+- **[Band Saw]()**          
+- **[Scroll Saw]()**     
+- **[High Pressure Cleaning Unit]()**    
+- **[Shopbot Mini]()**   
+- **[Vinyl Cutter]()**  
+- **[Laser Cutter (CO2)]()**   
+- **[Other Electronics Equipment]()**  
+- **[Soldering Station]()**
+- **[Consumables Rack]()**
+
+
+# Please dont read further, as it is not properly updated. Just added the stuff in zig-zag way.
+
 
 **Shopbot Alpha** - 3 Axis milling machine, 96"/48", subtractive model with resolution of 1/10th mm. Ideal for wooden materials and other soft metals like Aluminium, Brass, etc.         
 **Band Saw** - 3966         
@@ -63,8 +81,6 @@ Academany programs are distributed learning system with mentors rather teachers,
 Mentors called it for the day, reiterating to complete the unfinished task as homework...
 
 End of Day 1 @ 18:15 hrs...
-
-## [Vinyl Cutter](/mdfiles/vinylplotter.md)
 
 
 ## [Notings 1](day.md)

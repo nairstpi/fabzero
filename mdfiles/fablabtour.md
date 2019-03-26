@@ -1,8 +1,11 @@
 ## `Fablab tour`
 
-For the initial few days, the session will be conducted in the 4th floor of the facility keeping in view of the space constraints in the lab at first floor. Therefore, a tour was arranged to see the lab to get acquainted with all the equipment there. The collage made out of the snaps taken during the tour can be seen here.
+For the initial few days, the session will be conducted in the 4th floor of the facility keeping in view of the space constraints in the lab at first floor. Therefore, a tour was arranged to see the lab to get acquainted with all the equipment there.The lab pictures are here.
 
 ![Fablab Collage](img/fablabtour1.jpg "Fablab in various angles") 
+![Images]()
+![Images]()
+![Images]()
 
 Mentor Sibu introduced and explained all the equipment in our Fablab. The equipment list goes as follows. 
 
@@ -13,9 +16,7 @@ Mentor Sibu introduced and explained all the equipment in our Fablab. The equipm
 - **Shopbot Mini**   
 - **Vinyl Cutter**  
 - **Laser Cutter**   
-- **Function Generator**  
-- **Oscilloscope**   
-- **Power Supply**   
+- **Other Electronics Equipment**   
 - **Soldering Station**
 - **Consumables Rack**
 
