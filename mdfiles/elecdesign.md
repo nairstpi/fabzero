@@ -20,7 +20,9 @@ The steps involved in designing any typical circuit is narrated down below.
 - b. In Layer, F. Cu and Edge.Cuts shall only be selected.  
 - c. In General Options, opt Negative plot, Check zone filling before plotting.
 
-Plot Menu ![Screenshot](/./img/capture_plot.jpeg "Screenshot of Plot menu").
+Plot Menu Window options
+
+![Screenshot](/./img/plotmenu_sshot.png "Screenshot of Plot menu").
 
 - Two .svg files gets created.  
 - Open the SVG files and by pressing shift button, select only the required trace/cut image and proceed to export as .png files to a desired directory by selecting appropriate dpi. say @2000 pixels. (Please remember this dpi setting).    
