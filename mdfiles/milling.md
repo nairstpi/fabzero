@@ -2,6 +2,10 @@
 Milling the designed Printed Circuit Board (PCB) will be done through the use of mini CNC milling machine. The one we have in our lab is MonoFab DGSHAPE SRM-20, the pictorial representation of the same is given below. 
 ![DGSHAPE SRM-20](/./img/dgshape_srm20.png "SRM-20")
 
+The SRM-20 portable milling machine can mill a broad range of materials, including modeling wax, chemical wood, foam, acrylic, poly acetate, ABS and PC board. 
+
+The X, Y and Z strokes for the machine are 8, 6 & 2.38 inches respectively. The X, Y and Z axis drive systems are controlled by stepper motor, whereas the spindle motor is DC motor.
+
 The milling process is commanded through the 'V-Panel toolbar for the SRM-20' software installed in the connected system. The following are the steps to accomplish the milling process.
 - For printing the trace, the milling bit has to be selected as 1/64. 
 - Just fit the milling bit to the mill head, not so tightly. 
@@ -19,4 +23,7 @@ The milling process is commanded through the 'V-Panel toolbar for the SRM-20' so
 - Remove the bit and place the bits in the appropriate enclosures meant for it.
 - Now the printed PCB may be carefully removed by slightly lifting along the sides by using a screw-driver.
 
-![The pictures of my PCB may be viewed here](/./img/milled_pcb.png)
+
+![](/./img/milled_pcb.png)
+
+Snapshot of the PCB I have designed using KiCAD is shown above, which is unique and not the one shared by the mentor Sibu.
