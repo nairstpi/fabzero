@@ -35,7 +35,7 @@ Plot Menu Window options
     - PCB traces 1/64 as the process.   
     - In the input area options, ensure the selected dpi (KiCAD given value) and in the output area the machine selection as SRM-20.  
     - Set X0, Y0 & Z0 values to zero and all other fields to default while ensure the cut depth as 0.1 mm and tool diameter as 0.4 mm.
-    - Press calculate and save the .rml file.  
+    - Press calculate and save the .rml file.  [Fabmodules Screenshot](/./img/trace_sshot.svg "Screenshot of trace fabmodules")
 
 - Select the input Outline/cut file (.png) and output format as Roland Mill (.rml) and proceed as follows.
 
@@ -45,5 +45,5 @@ Plot Menu Window options
 
     - Set X0, Y0 & Z0 values to zero and all other fields to default while ensure the cut depth as 0.6 mm, stock thickness as 1.7 mm. and tool diameter as 0.79 mm.
 
-    - Press calculate and save the .rml file.
+    - Press calculate and save the .rml file. [Fabmodules Screenshot](/./img/outline_sshot.svg "Screenshot of outline cut fabmodules")
 
