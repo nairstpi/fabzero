@@ -15,7 +15,7 @@ Completed Schema Screenshot
 - Generate Netlist by using the button.    
 - Click the button Run 'PCBnew to Layout PCB'. This will convert the schema into layout and opens in new window.    
 - Realign the components conveniently to house within the layout and replace the white connection lines by route tracks.  
-- Use add file zone button or press B to fill GND in the entire circuits for F.Cu layer.  
+- Use add file zone button or press B to fill GND in the entire circuits for F. Cu layer.  
 - For Edge Cuts, use add graphic line button for drawing a outer box along the boundary. An yellow line appears along the boundary, select this line and give thickness as 0.8 mm. Why? 
 
 ![Screenshot](/./img/pcblayout_sshot.png)
