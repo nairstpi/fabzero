@@ -1,14 +1,14 @@
 
 ## Vinyl Cutting
 
-Mentor Sh. Sibu first introduced the Vinyl Cutter while our Fablab tour on the very first day. 
+Mentor Sibu first introduced the Vinyl Cutter while our Fablab tour on the very first day. 
 
 **Roland CAMM-1 GS-24** is the Vinyl Cutter that we have in our fablab. The Roland CAMM-1 GS-24 desktop cutter is precise and with maximum efficiency. With a completely redesigned cutting carriage and blade holder, the GS-24 offers great stability, up to **10x overlap cutting** and down force up to 350 grams (**30 to 350 gms**.), so that it can cut even on thick, dense substrates, at a speed up to **20 inches/second** (IPS). It accepts a wide range of materials, **2-inches to 27.5-inches** wide, including Vinyl, Paint mask, Heat transfer material, Sandblast material, Twill, etc. 
 
 ![Vinyl Cutter](/./img/roland_gs24.jpeg "Vinyl Cutter")
 
-
-On the very second day, Sh. Francisco demonstrated to load vinyl sheet into the cutter. 
+### Steps for Vinyl Cutting:
+On the very second day, Francisco demonstrated to load vinyl sheet into the cutter. 
 - He unloaded the lever behind the printer and inserted the vinyl sheet. 
 - The sheet while loading should be aligned to grooves. 
 - The sheet when placed on the machine has to be between any two white markings seen in the front. 
@@ -20,9 +20,12 @@ The snapshot of the Vinyl loaded printer is shown below.
 The printer has an instrument cluster as shown.
 [Roland Panel](/./img/roland_panel.png) 
 
+- Select the type of vinyl used for printing whether it is a sheet, piece or roll. to the machine and the keys are used for navigating the cutting head. 
+- Using the navigation button move the head towards the point from where the cut has to begin. 
+- Move it to the position as desired for printing and press the origin button. Now the machine considers this as the origin.
+- A test cut (a square within a circle) in the Vinyl can be made and the objective of this test is that the user should be able to peel of the circle without removing the square. This ensures that the blades are sharp enough and the applied pen force is sufficient. 
 
-Select the type of vinyl used for printing whether it is a sheet, piece or roll. to the machine and the keys are used for navigating the cutting head . Using the navigation button move the head towards the point from where the cut has to begin. He moved it accordingly and pressed the origin button. Now the machine considers this as the origin. Now he pressed the test button. This performed a test cut in the vinyl. A square within a circle. The objective of this test is that the user should be able to peel of the circle without removing the square. This ensures that the blades are sharp enough and the applied pen force is sufficient. 
-
+### Assignments:
 
 The first assignment given to us is to create a sticker using the vinyl cutter.
 
