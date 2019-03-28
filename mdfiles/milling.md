@@ -1,8 +1,8 @@
 ## PCB Preparation
-Milling the designed Printed Circuit Board (PCB) will be done through the use of mini CNC milling machine. The one we have in our lab is MonoFab DGSHAPE SRM-20, the pictorial representation of the same is given below. The milling process is commanded through the 'V-Panel toolbar for the SRM-20' software installed in the connected system. 
+Milling the designed Printed Circuit Board (PCB) will be done through the use of mini CNC milling machine. The one we have in our lab is MonoFab DGSHAPE SRM-20, the pictorial representation of the same is given below. 
+![DGSHAPE SRM-20](/./img/dgshape_srm20.png "SRM-20")
 
-
-The following are the steps to accomplish the milling process.
+The milling process is commanded through the 'V-Panel toolbar for the SRM-20' software installed in the connected system. The following are the steps to accomplish the milling process.
 - For printing the trace, the milling bit has to be selected as 1/64. 
 - Just fit the milling bit to the mill head, not so tightly. 
 - Approximately, the X, the largest axis of the machine, and Y axis has to be moved through the V-Panel to the coordinates where the milling has to be started.

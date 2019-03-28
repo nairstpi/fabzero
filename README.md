@@ -31,10 +31,10 @@ To see the entire tour details, [_click here_.](mdfiles/fablabtour.md "Tour deta
  
 ## `Index` 
 
-- **[Vinyl Cutting](/mdfiles/vinylplotter.md)**  
+- **[Vinyl Cutting.](/mdfiles/vinylplotter.md)**  
 - **Electronics Design** 
-    - [Schema & PCB Layout designing}(/mdfiles/elecdesign.md)
-    - [PCB Milling](/mdfiles/milling.md)**
+    - [Circuit Schema & PCB Layout designing.](/mdfiles/elecdesign.md)
+    - [PCB Milling.](/mdfiles/milling.md)
 - **[CNC Milling Machine](/mdfiles/srm20.md)**
 - **[Shopbot Alpha]()**         
 - **[Band Saw]()**          
