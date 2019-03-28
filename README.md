@@ -31,7 +31,7 @@ To see the entire tour details, [_click here_.](mdfiles/fablabtour.md "Tour deta
  
 ## `Index` 
 
-- **[Vinyl Cutting.](/mdfiles/vinylplotter.md)**  
+- **[Vinyl Cutting.](/mdfiles/vinylcutting.md)**  
 - **Electronics Design** 
     - [Circuit Schema & PCB Layout designing.](/mdfiles/elecdesign.md)
     - [PCB Milling.](/mdfiles/milling.md)

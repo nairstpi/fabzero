@@ -1,5 +1,5 @@
 
-## The Vinyl Cutter
+## Vinyl Cutting
 
 Mentor Sh. Sibu first introduced the Vinyl Cutter while our Fablab tour on the very first day. The Vinyl Cutter that our fablab has is Roland GX-24 , CAMM-1 SERVO Vinyl Cutter 2" - 27.5"5.08cm - 69.85cm 20 IPS 30gf - 250gf.
 
