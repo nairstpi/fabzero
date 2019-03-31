@@ -35,7 +35,8 @@ To see the entire tour details, [_click here_.](mdfiles/fablabtour.md "Tour deta
 - **Electronics Design** 
     - [Circuit Schema & PCB Layout designing.](/mdfiles/elecdesign.md)
     - [PCB Milling.](/mdfiles/milling.md)
-- **[CNC Milling Machine](/mdfiles/srm20.md)**
+    - [Components Soldering & Testing]()
+- **[3D Designing & Printing](/mdfiles/3ddesign.md)**
 - **[Shopbot Alpha]()**         
 - **[Band Saw]()**          
 - **[Scroll Saw]()**     

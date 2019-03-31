@@ -1,5 +1,6 @@
 ## PCB Preparation
 Milling the designed Printed Circuit Board (PCB) will be done through the use of mini CNC milling machine. The one we have in our lab is MonoFab DGSHAPE SRM-20, the pictorial representation of the same is given below. 
+
 ![DGSHAPE SRM-20](/./img/dgshape_srm20.png "SRM-20")
 
 The SRM-20 portable milling machine can mill a broad range of materials, including modeling wax, chemical wood, foam, acrylic, poly acetate, ABS and PC board. 
