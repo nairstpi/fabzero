@@ -13,8 +13,9 @@ Screenshot of my circuit schema.
 ![Screenshot](/./img/eschema_sshot.png)
 - Assign PCB footprint for the schematic symbols, footprint shall be as per lab inventory. Select Apply, save & Continue.    
 - Generate Netlist by using the button.    
-- Click the button Run 'PCBnew to Layout PCB'. This will convert the schema into layout and opens in new window.    
-- Realign the components conveniently to house within the layout and replace the white connection lines by route tracks.  
+- Click the button Run 'PCBnew to Layout PCB'. This will convert the schema into layout and a new window will pop up for the schema.    
+- Click update PCB from schema to view the PCB layout in the new window.
+- Realign the components conveniently and route the tracks and place all components as close as possible. This will replace all the white connection lines by route tracks.  
 - Use add file zone button or press B to fill GND in the entire circuits for F. Cu layer.  
 - For Edge Cuts, use add graphic line button for drawing a outer box along the boundary. An yellow line appears along the boundary, select this line and give thickness as 0.8 mm (1/32 bit diameter). 
 
