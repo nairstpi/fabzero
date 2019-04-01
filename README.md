@@ -91,3 +91,5 @@ End of Day 1 @ 18:15 hrs...
 ## [Notings 2](day.md)
 
 ## [Notings 3](day.md)
+
+## [Fab Lab Inventory](https://docs.google.com/spreadsheets/d/1U-jcBWOJEjBT5A0N84IUubtcHKMEMtndQPLCkZCkVsU/pub?single=true&gid=0&output=html "Inventory")
