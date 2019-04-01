@@ -30,7 +30,7 @@ Screenshot of my pcb layout.
 Plot Menu Window options.
 ![Screenshot](/./img/plotmenu_sshot.png "Screenshot of Plot menu").
 - Two .svg files will be created in the same directory as that of the schema and layout.  
-- Open the SVG files and by pressing shift button, select only the required trace/cut image and proceed to export as .png files to a desired directory by selecting appropriate dpi. say @2000 pixels. (Please remember this dpi setting).    
+- Now open the SVG files in Inkscape and by pressing shift button, select only the required trace/cut image and proceed to export as .png files to a desired directory by selecting appropriate dpi. say @2000 pixels. (Please remember this dpi setting).    
 - Open [fabmodules.org](http://fabmodules.org/ "fabmodules") and select the input trace file (.png) and output format as Roland Mill (.rml) and follow as below.  
 
     - PCB traces 1/64 as the process.   
@@ -51,4 +51,6 @@ Plot Menu Window options.
     - Press calculate and save the .rml file
     
 [Fabmodules options for outline file](/./img/outline_sshot.svg "Screenshot of outline cut fabmodules")
+
+Note: While we want to drill holes for the switch or for any pad usage of routing one trace, in the outline drilling, open the trace png file in Gimp and do the following tweaks to create the final outline.png file from the trace.png file.
 
