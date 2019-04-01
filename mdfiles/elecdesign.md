@@ -29,7 +29,7 @@ Screenshot of my pcb layout.
 
 Plot Menu Window options.
 ![Screenshot](/./img/plotmenu_sshot.png "Screenshot of Plot menu").
-- Two .svg files gets created.  
+- Two .svg files will be created in the same directory as that of the schema and layout.  
 - Open the SVG files and by pressing shift button, select only the required trace/cut image and proceed to export as .png files to a desired directory by selecting appropriate dpi. say @2000 pixels. (Please remember this dpi setting).    
 - Open [fabmodules.org](http://fabmodules.org/ "fabmodules") and select the input trace file (.png) and output format as Roland Mill (.rml) and follow as below.  
 
